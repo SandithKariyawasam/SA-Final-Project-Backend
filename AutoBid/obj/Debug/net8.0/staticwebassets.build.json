@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "UMt/zpC64YvJxZI2cu4dEBnlcRaEkzxJhmxMZ/Tx1QQ=",
+  "Hash": "SJLMFDhqgAFDEoSiIUHvDWigCmW651+fSiyuA9wzQFo=",
   "Source": "AutoBid",
   "BasePath": "_content/AutoBid",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
