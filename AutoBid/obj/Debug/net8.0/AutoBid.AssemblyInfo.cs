@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoBid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2d12f6c36516ff6f21ded0f2bc3b28961eeb974")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e58c1d50a1339b8c8e08502acc8aeb0ba5551c1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoBid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoBid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
